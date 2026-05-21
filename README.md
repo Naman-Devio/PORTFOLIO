@@ -3,7 +3,7 @@ Hello there! I'm Naman Vaishnav, a B.Tech Computer Science student, builder of b
 
 This is the interactive 3D version of my personal portfolio, built to showcase my journey, hackathon projects, and technical skills.
 
-Checkout the live version at [HEHE](LIINK)
+Checkout the live version at [check](https://naman-pf.vercel.app/)
 
 ## 🚀 Tech Stack
 
